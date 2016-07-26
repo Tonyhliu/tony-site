@@ -14,9 +14,49 @@
   text-align: center;
 }
 
+.section-heading-title {
+  color: whitesmoke;
+}
+
 .contact-icons {
   display: flex;
   flex-direction: row;
+}
+
+.portfolio-pic {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+.portfolio-box:hover {
+  opacity: 1;
+}
+
+.img-responsive:hover {
+
+}
+
+.btn-primary:hover {
+  background-color: #84722c;
+  border-color: #ffd83a;
+}
+
+.btn-xl:hover {
+  background-color: #84722c;
+  border-color: #ffd83a;
+}
+
+.text-faded {
+  color: white;
+}
+
+.portfolio-box .portfolio-box-caption {
+  background: rgba(53, 17, 9, 0.9);
+}
+.portfolio-box:hover {
+  background: rgba(53, 17, 9, 0.9);
 }
 
 /*.col-lg-8 {
