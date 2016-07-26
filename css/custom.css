@@ -1,0 +1,30 @@
+.javascript-icon {
+  max-height: 55px;
+}
+
+.sr-icons {
+  color: #dab92d;
+}
+
+.sr-contact {
+  width: 0px;
+}
+
+.section-heading {
+  text-align: center;
+}
+
+.contact-icons {
+  display: flex;
+  flex-direction: row;
+}
+
+/*.col-lg-8 {
+  width: 100%;
+}*/
+
+/*.contact-row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}*/
