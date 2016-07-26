@@ -38,15 +38,20 @@
 
 }
 
-.btn-primary:hover {
+/*.btn-primary:hover {
   background-color: #84722c;
   border-color: #ffd83a;
-}
+}*/
 
 .btn-xl:hover {
   background-color: #84722c;
   border-color: #ffd83a;
 }
+
+/*.btn-xl:hover {
+  background-color: #84722c;
+  border-color: #ffd83a;
+}*/
 
 .text-faded {
   color: white;
