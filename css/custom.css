@@ -7,7 +7,7 @@
 }
 
 .sr-contact {
-  width: 0px;
+  width: 10%;
 }
 
 .section-heading {
@@ -47,6 +47,11 @@
   background-color: #84722c;
   border-color: #ffd83a;
 }
+
+/*.btn-primary:active {
+  background-color: #84722c;
+  border-color: #ffd83a;
+}*/
 
 /*.btn-xl:hover {
   background-color: #84722c;
