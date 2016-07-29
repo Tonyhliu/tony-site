@@ -59,7 +59,8 @@
 }*/
 
 .text-faded {
-  color: white;
+  color: rgba(56, 34, 34, 0.71);
+  /*color: white;*/
 }
 
 .portfolio-box .portfolio-box-caption {
