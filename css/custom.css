@@ -34,29 +34,10 @@
   opacity: 1;
 }
 
-.img-responsive:hover {
-
-}
-
-/*.btn-primary:hover {
-  background-color: #84722c;
-  border-color: #ffd83a;
-}*/
-
 .btn-xl:hover {
   background-color: #84722c;
   border-color: #ffd83a;
 }
-
-/*.btn-primary:active {
-  background-color: #84722c;
-  border-color: #ffd83a;
-}*/
-
-/*.btn-xl:hover {
-  background-color: #84722c;
-  border-color: #ffd83a;
-}*/
 
 .text-faded {
   color: rgba(56, 34, 34, 0.71);
@@ -70,12 +51,7 @@
   background: rgba(53, 17, 9, 0.9);
 }
 
-/*.col-lg-8 {
-  width: 100%;
-}*/
-
-/*.contact-row {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}*/
+.icon-link {
+  /*color: black;*/
+  color: #ffd83a
+}
