@@ -76,4 +76,5 @@
 
 .project-name:hover {
   background: rgba(255, 255, 255, 0.65);
+  cursor: pointer;
 }
