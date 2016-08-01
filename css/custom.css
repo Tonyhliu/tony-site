@@ -56,7 +56,6 @@
 
 .icon-link {
   color: black;
-  /*color: #ffd83a*/
 }
 
 .fa-github {
@@ -69,4 +68,12 @@
 
 .fa-file-pdf-o {
   color: rgba(255, 0, 0, 0.54);
+}
+
+.mfp-bg .mfp-img-mobile .mfp-ready {
+  display: none;
+}
+
+.project-name:hover {
+  background: rgba(255, 236, 128, 0.58);
 }
