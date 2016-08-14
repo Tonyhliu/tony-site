@@ -48,10 +48,9 @@
 }
 
 .portfolio-box .portfolio-box-caption {
-  background: rgba(53, 17, 9, 0.9);
+  background: rgba(119, 107, 36, 0.9)
 }
 .portfolio-box:hover {
-  background: rgba(53, 17, 9, 0.9);
 }
 
 .icon-link {
