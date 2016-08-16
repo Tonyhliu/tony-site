@@ -35,8 +35,8 @@
 }
 
 .btn-xl:hover {
-  background-color: #84722c;
-  border-color: #ffd83a;
+  background-color: #627d8a;
+  border-color: #a9d2e6;
 }
 
 .text-faded {
@@ -44,11 +44,12 @@
 }
 
 .text-header {
-  color: rgba(56, 34, 34, 0.71);
+  color: #000000;
 }
 
 .portfolio-box .portfolio-box-caption {
-  background: rgba(119, 107, 36, 0.9)
+  /*background: #627d8a;*/
+  background: rgba(98, 125, 138, 0.77);
 }
 .portfolio-box:hover {
 }
@@ -76,4 +77,16 @@
 .project-name:hover {
   background: rgba(255, 255, 255, 0.65);
   cursor: pointer;
+}
+
+.ruby {
+  color: #e04242;
+}
+
+.html-css {
+  color: #686aff;
+}
+
+.sql {
+  color: #ff6868;
 }
