@@ -156,7 +156,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url('http://res.cloudinary.com/dcbb8bnvk/image/upload/v1472233735/DSC_2199_kwefim.jpg');
   text-align: center;
   color: white;
 }
@@ -188,7 +188,7 @@ header .header-content .header-content-inner p {
   }
   header .header-content {
     position: absolute;
-    top: 50%;
+    top: 57%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
