@@ -35,8 +35,8 @@
 }
 
 .btn-xl:hover {
-  background-color: #627d8a;
-  border-color: #a9d2e6;
+  background-color: rgb(141, 183, 180);
+  border-color: rgb(175, 228, 224);
 }
 
 .text-faded {
@@ -44,11 +44,11 @@
 }
 
 .text-header {
-  color: #000000;
+  color: rgba(0, 0, 0, 0.7);
 }
 
 .portfolio-box .portfolio-box-caption {
-  /*background: #627d8a;*/
+  /*background: rgb(141, 183, 180);*/
   background: rgba(98, 125, 138, 0.77);
 }
 .portfolio-box:hover {
